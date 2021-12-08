@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/播放.png</file>
+        <file>image/musice.png</file>
+        <file>image/播放1.png</file>
+        <file>image/结束1.png</file>
+        <file>image/上一首1.png</file>
+        <file>image/声音1.png</file>
+        <file>image/下一首1.png</file>
+        <file>image/暂停1.png</file>
+        <file>image/播放器背景图.png</file>
+        <file>image/播放器列表.png</file>
+        <file>image/扫描歌曲1.png</file>
+        <file>image/音乐图标-32.png</file>
+        <file>image/上一首3.png</file>
+        <file>image/下一首3.png</file>
+        <file>image/声音2.png</file>
+        <file>image/关机.png</file>
+        <file>image/音乐小人街舞.gif</file>
+        <file>image/音乐音节跳动.gif</file>
+        <file>image/xunhuan/单曲循环.png</file>
+        <file>image/xunhuan/单曲循环 (2).png</file>
+        <file>image/xunhuan/单曲一次.png</file>
+        <file>image/xunhuan/列表循环.png</file>
+        <file>image/xunhuan/顺序播放.png</file>
+        <file>image/xunhuan/随机播放.png</file>
+    </qresource>
+</RCC>
